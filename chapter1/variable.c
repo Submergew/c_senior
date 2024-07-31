@@ -29,9 +29,11 @@ void testb()
     printf("%d\n",p1.d);
 
 }
-
-
 int main()
 {
+
+    testa();
+    testb();
+
     return 0;
 }
