@@ -2,7 +2,6 @@
 // Created by wangz on 2024/8/2.
 //
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
 // 字符串拷贝
