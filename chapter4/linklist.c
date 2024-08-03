@@ -41,7 +41,6 @@ struct LinkNode *init_LinkList() {
         }
 
 
-
         //创建新节点
         struct LinkNode *newNode = malloc(sizeof(struct LinkNode));
         newNode->num = val;
